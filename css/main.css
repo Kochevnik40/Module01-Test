@@ -1,0 +1,51 @@
+body {
+    background-color: #3c4452;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    margin: auto;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: #12c0dd;
+    font-size: 50px;
+}
+
+p {
+    color: #fff;
+}
+
+li {
+    color: #909090;
+}
+
+h2 {
+    color: red;
+    background-color: black;
+    font-size: 50px;
+}
+
+th {
+    color: orange;
+}
+
+a {
+    text-decoration: none;
+    color: yellowgreen;
+}
+
+h3 {
+    color: chartreuse;
+}
+
+.footer {
+    background-color: black;
+    font-size: 30px;
+}
+.footer p{
+    color: #909090;
+}
