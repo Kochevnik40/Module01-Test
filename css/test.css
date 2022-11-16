@@ -9,7 +9,7 @@ body {
 .header {
     display: flex;
     border-bottom: 1px solid #000;
-    padding-bottom: 10px;
+    padding: 10px 0px 10px 0px;
     font-size: 20px;
     /* размер шрифта */
     align-items: center;
